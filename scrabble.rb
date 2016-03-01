@@ -22,6 +22,7 @@ end
 
 
 
+
 # function that cycles through letters of tiles
 def cycle(tiles, curr)
   i=0
